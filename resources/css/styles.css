@@ -1,0 +1,12 @@
+html {
+    box-sizing: border-box; 
+  }
+  
+  * {
+    box-sizing: inherit;
+  }
+
+h1 {
+    color: mintcream;
+    background-color: green;
+}
